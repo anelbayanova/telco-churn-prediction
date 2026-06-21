@@ -1,0 +1,13 @@
+results/churn_pipeline.pkl
+results/threshold.json
+results/predictions.csv
+results/plots/*.png
+data/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+
+.venv/
+venv/
