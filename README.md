@@ -90,8 +90,8 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 # 4. Запуск полного цикла обучения и валидации
-python scripts/train.py
+python3 scripts/train.py
 
 # 5. Запуск инференса (предсказания для новых данных)
-python scripts/predict.py путь_к_файлу.csv
+python3 scripts/predict.py путь_к_файлу.csv
 ```
